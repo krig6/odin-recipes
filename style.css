@@ -1,4 +1,7 @@
 #recipe {
     display: flex;
     align-items: center;
+    justify-content:center;
+    gap: 100px;
+    text-align: center;
   }
